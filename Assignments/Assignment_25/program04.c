@@ -23,7 +23,7 @@ Output :
         {
             if(i % 2 != 0)
             {
-                printf("%d\t",j);
+                printf("%d\t ",j);
             }
             else
             {
