@@ -21,7 +21,7 @@ Output :
     {  
         for(j = 1; j <= iCol; j++)
         {
-            if(i % 2 != 0)
+            if(i % 2 == 1)
             {
                 printf("%d\t ",j);
             }
