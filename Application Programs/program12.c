@@ -5,7 +5,7 @@ int CalculateTicketPrice(int iAge)
     //Updater
     if(iAge < 0)
     {
-        iAge = -iAge;
+        iAge = iAge;
     }
     if(iAge >= 0  &&  iAge <=5)
     {
